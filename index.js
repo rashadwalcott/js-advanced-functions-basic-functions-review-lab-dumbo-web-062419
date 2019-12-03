@@ -15,3 +15,4 @@ function wrapAdjective (flair='*') {
   }
 }
 
+const Calculator = {}
