@@ -14,4 +14,4 @@ function wrapAdjective () {
     return `You are ${flair}${parameter}${flair}!`
   }
 }
-wrapAdjective('a dedicated programmer', '||')
+wrapAdjective('||','a dedicated programmer')
